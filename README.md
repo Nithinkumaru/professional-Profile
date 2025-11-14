@@ -31,8 +31,41 @@ A clean, modern, and responsive personal portfolio website. Built with semantic 
 
 - This is a static site—no build step required.
 - The site is responsive and tested at common breakpoints.
-- Accessibility: semantic structure, labels, focusable controls.
+- Accessibility: semantic structure, labels, focusable controls.# Nithin Kumar U — Personal Portfolio
 
-## License
+A clean, modern, and responsive personal portfolio website showcasing projects, skills, experience, and contact details. Built with semantic HTML, modern CSS, and a small amount of JavaScript for interactivity.
 
-MIT
+---
+
+## Live demo
+Your site will be available at:  
+`https://nithinkumaru.github.io/professional-Profile/`  
+(if you use GitHub Pages for the `main` branch)
+
+---
+
+## Features
+- Responsive, mobile-first layout
+- Sections: About, Projects, Skills, Experience, Contact
+- Simple contact form (Formspree-ready)
+- Resume download link
+- Lightweight JS utilities (nav toggle, reveal fallback)
+- Easy to customize and extend
+
+---
+
+## Tech stack
+- HTML5, CSS3 (custom styles)
+- Vanilla JavaScript for small interactions
+- Static site — no build step required
+
+---
+
+## Quick start (local)
+1. Clone the repo:
+```bash
+git clone https://github.com/Nithinkumaru/professional-Profile.git
+cd professional-Profile
+
+
+
